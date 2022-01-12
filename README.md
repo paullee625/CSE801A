@@ -8,4 +8,4 @@ In this course I hope to learn about many things. Things like:
 
 + Learn about data mining
  
-Here is a link to the course homepage] (http:/ww.cse.msu.edu/~cse801).  
+Here is a [link to the course homepage] (http:/ww.cse.msu.edu/~cse801).  
