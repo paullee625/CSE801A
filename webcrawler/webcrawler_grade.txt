@@ -1,0 +1,55 @@
+SCORE: 10/10
+Assignment01: Web Crawler                                              leepau12
+===============================================================================
+
+Submitted files
+---------------
+.
+├── Webcrawler.ipynb
+├── webcrawler_grade.txt
+└── wikipedia.csv
+
+0 directories, 3 files
+
+
+Number of csv files identified: 1
+Number of ipynb files identified: 1
+
+
+
+CSV Evaluation
+--------------
+Attempting to read ./wikipedia.csv [OK]
+Number of entries: 100
+Number of columns: 3
+Column headings:
+   source_url
+   link_url
+   link_title
+
+URL Evaluation
+--------------
+     http://en.wikipedia.org:                                               10
+     http://en.wikipedia.org/wiki/Wikipedia:                                10
+     http://en.wikipedia.org/wiki/Free_content:                             10
+     http://en.wikipedia.org/wiki/Encyclopedia:                             10
+     http://en.wikipedia.org/wiki/English_language:                         10
+     http://en.wikipedia.org/wiki/Documentary_film:                         10
+     http://en.wikipedia.org/wiki/Debra_Chasnoff:                           10
+     http://en.wikipedia.org/wiki/Conservatism_in_the_United_States:        10
+     http://en.wikipedia.org/wiki/PBS:                                      10
+     http://en.wikipedia.org/wiki/American_Family_Association:              10
+
+Number of sources with too many targets:  0
+
+Accessible HTML targets 100
+Non HTML targets        0
+Inaccessible targets    0
+
+
+
+
+
+Comments
+--------
+Good job!

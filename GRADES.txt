@@ -1,0 +1,29 @@
+CSE801A / ITM891 Grade Summary                                          leepau12
+================================================================================
+ITM891
+------
+  Lab01      1.0 / 1.0   Full credits
+  Lab02      1.0 / 1.0   Full credits
+  Lab03      1.0 / 1.0   Full credits
+  Lab04      1.0 / 1.0   Full credits
+  Lab06      1.0 / 1.0   Full credits
+  Lab07      0.0 / 1.0   No credits
+  Lab08      1.0 / 1.0   Full credits
+  Lab10      1.0 / 1.0   Full credits
+  Lab15      1.0 / 1.0   Full credits
+  Lab20      1.0 / 1.0   Full credits
+
+  LAB TOTAL:  9.0 / 10.0
+  GRADE:        4.0
+
+
+CSE801A
+-------
+  Lab05        10.0 / 10.0   (Scaled to 10pts)
+  WebCrawler   10.0 / 10.0   (Scaled to 10pts)
+  Graph        10.0 / 10.0   (Scaled to 10pts)
+  KMeans       10.0 / 10.0   (Scaled to 10pts)
+  Offset       60.0 / 60.0   
+
+  ASSIGNMENT TOTAL: 100.0 / 100.0
+  GRADE:            4.0
